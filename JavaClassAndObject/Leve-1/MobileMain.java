@@ -17,6 +17,6 @@ public class MobileMain {
         ClassMobile m1 = new ClassMobile(brand, model, price);
         m1.display();
 
-        sc.close();
+        sc.close();//
     }
 }
